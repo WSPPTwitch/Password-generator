@@ -12,7 +12,7 @@ After installing the script, put the "PasswordGenerator.py" onto your desktop.
 Go into CMD (Search Command Prompt in windows search).
 Put the following commands in:
 1. cd Desktop
-2. python CodeGenerator.py
+2. python PasswordGenerator.py
 After inputing all of the commands, the script will start by itself. If you've done all the steps, you will be able to run the script by double-clicking the file.
 
 
